@@ -15,7 +15,7 @@
 - Fresh graduate from <a href="https://bau.edu.tr">Bahçeşehir University, Turkey</a> 
 - A passionate Self-taught Front-End developer
 - Currently learning React.js
-- Currently open for a new job opportunity, this is [my resume](linwillbeadded)
+- Currently open for a new job opportunity, this is [my resume](https://leventorhan.github.io/resume/)
 
 <br><br>
 
