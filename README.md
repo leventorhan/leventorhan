@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="40" height="40" />, I am Levent Orhan </h1>
-<h2 align="center">Computer Engineer | FrontEnd Developer</h2>
+<h1 align="center">Hi<img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="40" height="40" />, I am Levent Orhan </h1>
+<h2 align="center">Computer Engineer | Data Analyst</h2>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Front-End+Developer,;Computer+Engineer,;Self+Learner/Problem+Solver"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst,;Computer+Engineer,;Self+Learner/Problem+Solver"></a>
 </p>
 
 <br>
@@ -13,8 +13,8 @@
 <br>
 
 - Fresh graduate from <a href="https://bau.edu.tr">Bahçeşehir University, Turkey</a> 
-- A passionate Self-taught Front-End developer
-- Currently learning React.js
+- A computer engineer who has a passion for data analysis and a future aspiration to specialize in Business Intelligence.
+- Currently learning Python and Data Visualization Tools like Tableau
 - Currently open for a new job opportunity, this is [my resume](https://leventorhan.github.io/resume/)
 
 <br><br>
@@ -27,6 +27,8 @@
   <tr>
    <td width="50%">
      <h2> 🛠 &nbsp;Tech Stack</h2>
+     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python"/>
+     <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R"/> 
      <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
      <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/> 
      <br>
@@ -42,6 +44,8 @@
      <br>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
+     <img src="https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau"/>
+     <img src="https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi"/>
      <br>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
      <img src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stackoverflow"/>
