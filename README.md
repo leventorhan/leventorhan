@@ -29,8 +29,7 @@
      <h2> 🛠 &nbsp;Tech Stack</h2>
      <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python"/>
      <img src="https://img.shields.io/badge/-R-05122A?style=flat&logo=R"/> 
-     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/>
-     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java"/> 
+     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B"/> 
      <br>
      <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>
      <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>
@@ -48,6 +47,7 @@
      <img src="https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi"/>
      <br>
      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+     <img src="https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter"/>
      <img src="https://img.shields.io/badge/-Stack%20Overflow-05122A?style=flat&logo=stackoverflow"/>
    </td>
    <td>
